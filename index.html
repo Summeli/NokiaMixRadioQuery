@@ -1,0 +1,44 @@
+<!DOCTYPE html> 
+<html> 
+<head> 
+	<title>Nokia Mix Radio</title> 
+	<meta name="viewport" content="width=device-width, initial-scale=1"> 
+	<link rel="stylesheet" href="http://code.jquery.com/mobile/1.2.0/jquery.mobile-1.2.0.min.css" />
+	<script src="http://code.jquery.com/jquery-1.8.2.min.js"></script>
+	<script src="http://code.jquery.com/mobile/1.2.0/jquery.mobile-1.2.0.min.js"></script>
+        <script src="common.js"></script>
+        <script src="categories.js"></script>
+        <script src="mixgroup.js"></script>
+</head> 
+<body> 
+
+<!-- Starting page, listing the mixes --> 
+<div data-role="page" id="cat">
+
+	<div data-role="header">
+		<h1>Mix Radio</h1>
+	</div><!-- /header -->
+
+	<div data-role="content">	
+           <ul id="catList" data-role="listview" data-inset="true">
+           </ul>	
+        </div><!-- /content -->
+
+</div><!-- /page -->
+
+<!-- Mix Lists page -->
+<div data-role="page" id="mixgroup" data-add-back-btn="true">
+
+	<div data-role="header" id="mixheader">
+		<h1 id="mixtext"></h1>
+	</div><!-- /header -->
+
+	<div data-role="content">	
+	   <ul id="mixList" data-role="listview" data-inset="true">
+           </ul>
+        </div><!-- /content -->
+
+</div><!-- /page -->
+
+</body>
+</html>
