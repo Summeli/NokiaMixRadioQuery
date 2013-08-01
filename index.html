@@ -9,13 +9,14 @@
         <script src="common.js"></script>
         <script src="categories.js"></script>
         <script src="mixgroup.js"></script>
+        <link rel="stylesheet" href="nokiaradiostyle.css" />
 </head> 
 <body> 
 
 <!-- Starting page, listing the mixes --> 
 <div data-role="page" id="cat">
 
-	<div data-role="header">
+	<div data-role="header" data-position="fixed">
 		<h1>Mix Radio</h1>
 	</div><!-- /header -->
 
@@ -29,7 +30,7 @@
 <!-- Mix Lists page -->
 <div data-role="page" id="mixgroup" data-add-back-btn="true">
 
-	<div data-role="header" id="mixheader">
+	<div data-role="header" id="mixheader" data-position="fixed">
 		<h1 id="mixtext"></h1>
 	</div><!-- /header -->
 

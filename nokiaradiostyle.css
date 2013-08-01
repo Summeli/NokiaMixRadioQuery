@@ -1,0 +1,8 @@
+.ui-listview .ui-li-icon{
+    max-height: 40px;
+    max-width: 40px;
+}
+.ui-li-has-icon h3 {
+    padding-left: 35px;
+}
+

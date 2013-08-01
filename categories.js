@@ -3,7 +3,7 @@ $( document ).delegate("#cat", "pageinit", function() {
    
    var jqxhr = $.getJSON('http://api.ent.nokia.com/1.x/'+localStorage.country+'/mixes/groups?domain=music&itempsperpage=20&startindex=0&app_id='+localStorage.appid+'&callback=?', null, null,'application/vnd.nokia.ent.radiogroups+json')
    .done(function(result) {
-      console.log(result.data.items[0].name);
+      console.log(result.data);
 
       
       var list = $("#catList").listview();
