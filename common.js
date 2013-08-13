@@ -1,4 +1,4 @@
 if (window.localStorage){
-   localStorage.setItem("appid", "J93mgzf9ObxVqjw6lCws");
+   localStorage.setItem("appid", "myownAPPID");
    localStorage.setItem("country","uk");
 } 
