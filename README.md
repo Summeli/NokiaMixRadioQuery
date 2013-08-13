@@ -20,4 +20,4 @@ You can get your app id from [nokiamusicrest]
 -------
 [summeli]: www.summeli.fi
 [nokiamusicrest]: http://api.ent.nokia.com/reststart.html
-[Nokia Developer Wiki]: http://developer.nokia.com/Community/Wiki/Displaying_Nokia_Music_Metadata_with_JQuery_Mobile#Introduction "Displaying Nokia Music Metadata with JQuery Mobile"
+[Nokia Developer Wiki]: http://developer.nokia.com/Community/Wiki/Displaying_Nokia_Music_Metadata_with_JQuery_Mobile "Displaying Nokia Music Metadata with JQuery Mobile"
