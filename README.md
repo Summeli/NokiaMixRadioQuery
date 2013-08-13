@@ -4,6 +4,8 @@ Nokia MIXRadio Query is a simple HTML5 application with jquery mobile UI to disp
 This project is used as an example for illustrating how to use the Nokia Music REST API with a javascript UI with jquery mobile.
 
 See the Nokia Developer wiki-article about the example application: [Nokia Developer Wiki]
+
+License
 -------
 The Project is licenced under MIT license
 See license.txt for full lisence
