@@ -3,8 +3,7 @@ Nokia MixRadio Query
 Nokia MIXRadio Query is a simple HTML5 application with jquery mobile UI to display metadata for nokia Mix channels.
 This project is used as an example for illustrating how to use the Nokia Music REST API with a javascript UI with jquery mobile.
 
-See the Nokia Developer wiki-article about the example application [nokiawiki Displaying Nokia Music Metadata with JQuery Mobile]
-License
+See the Nokia Developer wiki-article about the example application: [Nokia Developer Wiki]
 -------
 The Project is licenced under MIT license
 See license.txt for full lisence
@@ -19,4 +18,4 @@ You can get your app id from [nokiamusicrest]
 -------
 [summeli]: www.summeli.fi
 [nokiamusicrest]: http://api.ent.nokia.com/reststart.html
-[nokiawiki]: http://developer.nokia.com/Community/Wiki/Displaying_Nokia_Music_Metadata_with_JQuery_Mobile#Introduction "Displaying Nokia Music Metadata with JQuery Mobile"
+[Nokia Developer Wiki]: http://developer.nokia.com/Community/Wiki/Displaying_Nokia_Music_Metadata_with_JQuery_Mobile#Introduction "Displaying Nokia Music Metadata with JQuery Mobile"
