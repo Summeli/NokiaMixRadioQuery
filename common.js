@@ -1,4 +1,4 @@
 if (window.localStorage){
-   localStorage.setItem("appid", "demo_qCG24t50dHOwrLQ");
+   localStorage.setItem("appid", "J93mgzf9ObxVqjw6lCws");
    localStorage.setItem("country","uk");
 } 
